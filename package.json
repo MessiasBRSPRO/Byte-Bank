@@ -1,0 +1,12 @@
+{
+  "name": "bytebank2",
+  "version": "1.0.0",
+  "description": "Modulo de compartilhamentos",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Messias",
+  "license": "ISC",
+  "type": "module"
+}
